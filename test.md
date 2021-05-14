@@ -1,1 +1,1 @@
-revoked token
+timeout from browser
