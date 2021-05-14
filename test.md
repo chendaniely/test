@@ -1,1 +1,1 @@
-timeout from browser
+delete from windows credential manager
